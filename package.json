@@ -1,0 +1,23 @@
+{
+  "name": "sls-hello-world",
+  "version": "1.0.0",
+  "description": "Quick and dirty test",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.126.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aoggz/aws-dynamo-node-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aoggz/aws-dynamo-node-test/issues"
+  },
+  "homepage": "https://github.com/aoggz/aws-dynamo-node-test#readme"
+}
